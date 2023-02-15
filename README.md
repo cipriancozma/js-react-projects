@@ -10,3 +10,7 @@ What I used:
 - https://fonts.google.com/ (for the font)
 - API -> https://cipriancozma.github.io/quotes-api/quotes.json
 - https://htmldom.dev/ (for interacting with the DOM)
+
+# Infinit Scroll - JS + React
+
+What I used:
