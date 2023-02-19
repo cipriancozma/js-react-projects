@@ -14,3 +14,6 @@ What I used:
 # Infinit Scroll - JS + React
 
 What I used:
+
+- https://loading.io/ (for the loading part)
+- API -> https://unsplash.com/
