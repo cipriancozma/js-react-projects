@@ -17,3 +17,7 @@ What I used:
 
 - https://loading.io/ (for the loading part)
 - API -> https://unsplash.com/
+
+# Picture in Picture - JS + React
+
+What I used:
